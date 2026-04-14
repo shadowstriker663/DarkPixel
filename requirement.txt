@@ -1,0 +1,4 @@
+pillow
+cryptography
+rich
+colorama
